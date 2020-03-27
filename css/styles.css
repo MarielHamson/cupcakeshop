@@ -1,0 +1,34 @@
+.fun {
+  color: #32a8a8;
+  text-align: center;
+  font-weight: bold;
+}
+.highlight {
+    color: #42bd71;
+    text-weight: bold;
+
+}
+.emphasize {
+  font-size: 30px;
+  color: #32a8a8;
+}
+img {
+  float: right;
+  width: 20%;
+  height: 150px;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+
+.sidebar {
+  width: 10%;
+  float: left;
+  background-color: #42bd71;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
