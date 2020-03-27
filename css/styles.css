@@ -1,3 +1,7 @@
+body {
+  background-color: #dce3b3;
+}
+
 .fun {
   color: #32a8a8;
   text-align: center;
@@ -6,6 +10,7 @@
 .highlight {
     color: #42bd71;
     text-weight: bold;
+    text-align: center;
 
 }
 .emphasize {
@@ -16,6 +21,8 @@ img {
   float: right;
   width: 20%;
   height: 150px;
+  border-radius: 50%;
+
 }
 .column {
   width: 300px;
@@ -25,10 +32,20 @@ img {
 .sidebar {
   width: 10%;
   float: left;
+  margin: 20px;
   background-color: #42bd71;
+  text-align: left;
 }
 
 .column {
   width: 300px;
   float: left;
+  background-color: ba348b ;
+}
+.border {
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px;
+  background-color: #b19dd1 ;
+
 }
